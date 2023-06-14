@@ -1,0 +1,328 @@
+id_depute,nom,prenom,lien,naissance_j,naissance_m,naissance_a,deces_j,deces_m,deces_a,groupe_parlementaire,departement
+79,Alduy,Paul,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/79,4,10,1914,23,1,2006,Socialiste,Pyrénées-Orientales
+128,André,"Adrien, Baptiste, Honoré",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/128,29,5,1884,22,4,1965,Républicain radical et radical-socialiste,Vienne
+153,Ansart,Gustave,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/153,5,3,1923,20,9,1990,Communiste,Nord
+165,Anxionnaz,"Paul, Marius",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/165,31,12,1902,20,2,1997,Républicain radical et radical-socialiste,Marne
+176,Arbeltier,"René, Albert",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/176,23,1,1897,10,9,1979,Socialiste,Seine-et-Marne
+196,Arnal,Franck,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/196,30,10,1898,23,6,1985,Socialiste,Var
+212,Arrighi,Pascal,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/212,16,6,1921,19,7,2004,Républicain radical et radical-socialiste,Corse
+227,Auban,"Achille, Joseph",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/227,14,4,1912,12,4,1973,Socialiste,Haute-Garonne
+311,Babet,"Raphaël, Jean-Baptiste, Benjamin",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/311,27,6,1894,30,7,1957,Union démocratique et socialiste de la Résistance et du RDA,La Réunion
+324,Badie,"Vincent, Henri",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/324,16,7,1902,8,9,1989,Républicain radical et radical-socialiste,Hérault
+352,Ballanger,"Robert, Victor, Marcel, François",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/352,2,11,1912,26,1,1981,Communiste,Seine-et-Oise
+393,Barbot,Marcel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/393,2,9,1907,26,10,1998,Communiste,Nièvre
+405,Barel,Joseph dit Virgile,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/405,17,12,1889,7,11,1979,Communiste,Alpes-Maritimes
+441,Barry,Diawadou,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/441,10,5,1916,30,6,1969,Républicain radical et radical-socialiste,Guinée
+445,Barthélémy,"André, Jules, François",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/445,16,6,1897,30,1,1980,Communiste,Jura
+453,Bartolini,"Jean, Baptiste",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/453,10,5,1899,1,2,1977,Communiste,Var
+507,Baurens,"Alexandre, Sylvain, Justin",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/507,20,2,1900,23,7,1979,Socialiste,Gers
+511,Baylet,"Jean, André, Bernard",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/511,6,4,1904,29,5,1959,Républicain radical et radical-socialiste,Tarn-et-Garonne
+571,Bégouin,"Lucien, Louis, Marie",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/571,17,4,1908,27,12,1998,Républicain radical et radical-socialiste,Seine-et-Marne
+616,Béné,Maurice,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/616,24,7,1884,19,12,1960,Républicain radical et radical-socialiste,Seine-et-Oise
+628,Benoist,"Charles, Claude",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/628,28,1,1901,15,2,1988,Communiste,Seine-et-Oise
+633,Benoit,"Alcide, Alfred",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/633,15,6,1899,23,9,1992,Communiste,Marne
+724,Berthet,"Alix, Edmond, Fernand",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/724,15,7,1907,11,12,1973,Socialiste,Isère
+756,Besset,"Pierre, Jean",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/756,17,2,1907,10,10,1979,Communiste,Puy-de-Dôme
+806,Billat,Paul,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/806,24,4,1904,30,4,1996,Communiste,Isère
+809,Billères,"René, Sylvain, Edouard",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/809,29,7,1910,2,10,2004,Républicain radical et radical-socialiste,Hautes-Pyrénées
+815,Billoux,François,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/815,21,5,1903,14,1,1978,Communiste,Bouches-du-Rhône
+819,Binot,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/819,2,7,1911,9,11,1982,Socialiste,Seine-Maritime
+828,Bissol,Léopold,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/828,8,10,1889,18,9,1982,Communiste,Martinique
+875,Blondeau ,"André, Louis",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/875,25,10,1911,13,5,1996,Communiste,Indre
+883,Boccagny,"Albert, François",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/883,28,5,1894,21,11,1983,Communiste,Haute-Savoie
+888,Bocoum,"Barema, Kissourou",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/888,1,1,1914,3,3,1973,Union démocratique et socialiste de la Résistance et du RDA,Soudan
+907,Boisseau,"Roger, Henri, Louis",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/907,21,6,1926,15,12,2007,Communiste,Seine
+933,Bonnaire,"André, Jean, Marie",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/933,1,2,1901,21,7,1962,Républicain radical et radical-socialiste,Nord
+937,Bonnefous,"Edouard, Henri, Jean",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/937,24,7,1907,24,2,2007,Union démocratique et socialiste de la Résistance et du RDA,Seine-et-Oise
+960,Bonte,"Florimond, Paul, Denis, Louis, Joseph",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/960,22,1,1890,19,11,1977,Communiste,Seine
+1037,Bouhey,"Jean, Baptiste, Georges",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1037,23,10,1898,12,6,1963,Socialiste,Côte-d'Or
+1064,Bouloux,"Alphonse, Alexandre",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1064,30,9,1887,15,4,1978,Communiste,Vienne
+1072,Bourbon,Henri,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1072,10,11,1906,16,6,1996,Communiste,Ain
+1089,Bourgès-Maunoury,"Maurice, Jean, Marie",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1089,19,7,1914,10,2,1993,Républicain radical et radical-socialiste,Haute-Garonne
+1121,Boutard,"Madeleine, Henriette",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1121,16,12,1913,18,7,1984,Communiste,Indre-et-Loire
+1124,Boutavant,"Rémy, François",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1124,26,2,1911,25,12,1979,Communiste,Saône-et-Loire
+1227,Briffod,Henri,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1227,20,12,1913,30,6,1987,Socialiste,Haute-Savoie
+1245,Brocas,"Patrice, Pierre, François",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1245,28,11,1919,28,7,1968,Républicain radical et radical-socialiste,Gers
+1265,Bruelle,Louis,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1265,17,2,1918,25,6,1988,Républicain radical et radical-socialiste,Madagascar
+1346,Cachin,"Marcel, Gilles",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1346,20,9,1869,12,2,1958,Communiste,Seine
+1357,Cagne,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1357,24,7,1907,14,10,1958,Communiste,Rhône
+1367,Caillavet,"Henri, Guy, Pierre, Emile",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1367,13,2,1914,27,2,2013,Républicain radical et radical-socialiste,Lot-et-Garonne
+1373,Calas,"Raoul, Joseph, Emile",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1373,25,3,1899,23,12,1978,Communiste,Hérault
+1413,Cance,"René, Louis",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1413,29,4,1895,30,7,1982,Communiste,Seine-Maritime
+1477,Cartier,"Marius, Alexandre",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1477,5,1,1913,31,12,1992,Communiste,Haute-Marne
+1476,Cartier,"Marcel, Julien, Ursin, René",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1476,24,7,1895,1,7,1965,Socialiste,Drôme
+1482,Casanova,"Laurent, Antoine",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1482,9,10,1906,20,3,1972,Communiste,Seine-et-Marne
+1491,Cassagne,"René, Jean, Paul",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1491,16,7,1898,27,12,1967,Républicain radical et radical-socialiste,Basses-Pyrénées
+1510,Castera,"Edmond, Odoïs",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1510,20,11,1907,23,10,1998,Communiste,Gers
+1575,Cermolacce,"Paul, Antoine, Joseph",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1575,2,7,1912,15,5,1988,Communiste,Bouches-du-Rhône
+1579,Césaire,"Aimé, Fernand, David",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1579,25,6,1913,17,4,2008,Communiste,Martinique
+1670,Charlot,"Jean, Constant",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1670,26,1,1901,4,6,1976,Socialiste,Var
+1705,Chatelain,"Roger, Louis, Jean",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1705,14,2,1913,7,1,1997,Républicain radical et radical-socialiste,Deux-Sèvres
+1732,Chauvet,"Augustin, Jean, Alexis, Félix",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1732,28,6,1900,2,7,1988,Union démocratique et socialiste de la Résistance et du RDA,Cantal
+1756,Cheikh,Saïd Mohamed Ben Chech Abdallah,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1756,1,7,1904,16,3,1970,Union démocratique et socialiste de la Résistance et du RDA,Comores
+1761,Chène,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1761,25,12,1928,16,11,1996,Communiste,Loiret
+1770,Cherrier,Marcel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1770,3,11,1902,22,7,1985,Communiste,Cher
+1860,Clostermann,"Pierre, Henri",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1860,28,2,1921,22,3,2006,Républicain radical et radical-socialiste,Seine
+1885,Cogniot,"Georges, Auguste, Alexandre",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1885,15,12,1901,12,3,1978,Communiste,Seine
+1936,Condat,"Georges, Mahaman",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1936,16,6,1924,25,10,2012,Union démocratique et socialiste de la Résistance et du RDA,Niger
+1949,Conte,"Arthur, Léon",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1949,31,3,1920,26,12,2013,Socialiste,Pyrénées-Orientales
+1954,Coquel,"Gaston, Hippolyte",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1954,4,1,1901,2,4,1983,Communiste,Pas-de-Calais
+1961,Cordillot,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1961,17,3,1927,14,4,2016,Communiste,Yonne
+1964,Cormier,"Maurice, François, Marcel, Joseph",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/1964,13,10,1918,25,9,1990,Socialiste,Mayenne
+2020,Coulibaly,"Daniel, Ouezzin",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2020,1,7,1909,7,9,1958,Union démocratique et socialiste de la Résistance et du RDA,Côte-d'Ivoire
+2047,Coutant,Robert,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2047,14,1,1908,15,7,1978,Socialiste,Nord
+2073,Cristofol,"Jean, Joseph, Antoine",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2073,24,3,1901,21,11,1957,Communiste,Bouches-du-Rhône
+2087,Cupfer,Guy,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2087,9,4,1908,21,5,1992,Républicain radical et radical-socialiste,Eure-et-Loir
+2097,Dagain,Léon,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2097,15,7,1893,3,1,1958,Socialiste,Nièvre
+2105,Daladier,Edouard,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2105,18,6,1884,10,10,1970,Républicain radical et radical-socialiste,Vaucluse
+2137,Darou,Marcel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2137,3,7,1896,29,1,1986,Socialiste,Nord
+2174,David,Marcel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2174,19,6,1901,19,12,1979,Socialiste,Landes
+339,de Baillencourt,"Albert, Alix, Jacques, Hippolyte, Marie",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/339,30,3,1908,28,5,1994,Républicain radical et radical-socialiste,Seine
+2952,de Felice,"Pierre, Henry, Rodolphe",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2952,13,12,1896,12,1,1978,Républicain radical et radical-socialiste,Loiret
+7863,de Lipkowski,"Jean, Noël",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7863,25,12,1920,20,9,1997,Républicain radical et radical-socialiste,Seine-et-Oise
+5431,de Moro-Giafferri,"Vincent, Xavier, Etienne, Eugène",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5431,6,6,1878,22,11,1956,Républicain radical et radical-socialiste,Seine
+2216,Defferre,Gaston,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2216,14,9,1910,7,5,1986,Socialiste,Bouches-du-Rhône
+2223,Defrance,"Auguste, Léon, Isaïe",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2223,7,7,1901,20,10,1988,Communiste,Pas-de-Calais
+2226,Degoutte,Lucien,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2226,19,7,1907,6,9,1963,Républicain radical et radical-socialiste,Rhône
+2228,Degrond,"Céline, Victorine dite Germaine",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2228,3,6,1894,18,4,1991,Socialiste,Seine-et-Oise
+2236,Deixonne,Maurice,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2236,8,6,1904,27,6,1987,Socialiste,Tarn
+2239,Dejean,René,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2239,4,2,1915,27,7,1988,Socialiste,Ariège
+2244,Delabre,"Camille, Louis, Jules",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2244,19,7,1906,1,10,2004,Socialiste,Pas-de-Calais
+2364,Demusois,Antoine,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2364,4,7,1895,14,1,1968,Communiste,Seine-et-Oise
+2375,Denis,"Alphonse, Léon",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2375,5,3,1906,19,4,1997,Communiste,Haute-Vienne
+2388,Denvers,"Albert, Jérémie, Joseph, Cornil",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2388,21,2,1905,31,12,2006,Socialiste,Nord
+2394,Depreux,"Edouard, Gustave, Hector",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2394,31,10,1898,16,10,1981,Socialiste,Seine
+2448,Desouches,Edmond,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2448,28,6,1904,21,12,1997,Républicain radical et radical-socialiste,Eure-et-Loir
+9087,Desson,Guy,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/9087,7,4,1909,4,4,1980,Socialiste,Ardennes
+2481,Devinat,Paul,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2481,2,1,1890,1,5,1980,Républicain radical et radical-socialiste,Saône-et-Loire
+2485,Dewasmes,Tarsyle,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2485,17,12,1906,31,5,1980,Socialiste,Nord
+2497,Diallo,Saïfoulaye,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2497,1,7,1923,25,9,1981,Union démocratique et socialiste de la Résistance et du RDA,Guinée
+2499,Diat,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2499,30,7,1919,3,3,2002,Communiste,Loire
+2500,Dicko,Hamadoun,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2500,1,7,1924,30,6,1964,Socialiste,Soudan
+2531,Doize,Pierre,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2531,6,11,1907,19,2,1979,Communiste,Bouches-du-Rhône
+2576,Doutrellot,Pierre,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2576,24,9,1902,7,5,1986,Socialiste,Somme
+2621,Dubois,Louis,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2621,23,7,1910,4,2,1970,Union démocratique et socialiste de la Résistance et du RDA,Nièvre
+2652,Duclos,Jacques,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2652,2,10,1896,25,4,1975,Communiste,Seine
+2655,Ducos,"Hippolyte, Roc, Aristide",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2655,4,10,1881,14,11,1970,Républicain radical et radical-socialiste,Haute-Garonne
+2673,Dufour,"André, Maurice",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2673,13,7,1909,11,11,1995,Communiste,Isère
+2695,Dumas,"Roland, Léon, Louis",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2695,23,7,1922,,,,Union démocratique et socialiste de la Résistance et du RDA,Haute-Vienne
+2709,Dumortier,"Jeannil, Fernand, Edouard",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2709,28,6,1911,18,2,1993,Socialiste,Pas-de-Calais
+2720,Dupont,Louis,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2720,7,9,1912,10,4,2004,Communiste,Meurthe-et-Moselle
+2727,Duprat,Raymond dit Gérard,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2727,4,10,1912,3,10,1980,Communiste,Lot-et-Garonne
+2739,Dupuy,Marc,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2739,15,12,1889,9,6,1979,Communiste,Gironde
+2780,Durroux,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2780,6,7,1910,21,5,1964,Socialiste,Ariège
+2804,Duveau,Roger,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2804,5,7,1907,19,1,1985,Union démocratique et socialiste de la Résistance et du RDA,Madagascar
+2805,Duvernois,Eugénie,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2805,21,9,1909,11,5,1983,Communiste,Seine-et-Oise
+2851,Estachy Née Paimpec,Yvonne,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2851,6,4,1907,16,7,1985,Communiste,Bouches-du-Rhône
+2863,Eudier,Louis,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2863,20,4,1903,11,7,1986,Communiste,Seine-Maritime
+2869,Évrard,Just,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2869,31,5,1898,9,2,1972,Socialiste,Pas-de-Calais
+2888,Faggianelli,Jacques,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2888,18,11,1901,30,4,1989,Républicain radical et radical-socialiste,Corse
+2895,Fajon,Etienne,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2895,11,9,1906,4,12,1991,Communiste,Seine
+2906,Faraud,Roger,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2906,7,5,1903,8,4,1987,Socialiste,Charente-Maritime
+2932,Faure,Maurice,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2932,2,1,1922,6,3,2014,Républicain radical et radical-socialiste,Lot
+2955,Félix-Tchicaya,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/2955,9,11,1903,16,1,1961,Union démocratique et socialiste de la Résistance et du RDA,Moyen-Congo
+3105,Fourvel,Eugène,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3105,9,2,1906,3,7,1986,Communiste,Puy-de-Dôme
+3129,François-Bénard,Marie,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3129,2,2,1917,13,9,1986,Union démocratique et socialiste de la Résistance et du RDA,Hautes-Alpes
+3185,Gaborit,Roger,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3185,12,12,1903,20,5,1996,Républicain radical et radical-socialiste,Charente-Maritime
+3195,Gagnaire,Etienne,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3195,17,4,1906,19,9,1980,Socialiste,Rhône
+3200,Gaillard,Félix,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3200,5,11,1919,9,7,1970,Républicain radical et radical-socialiste,Charente
+3211,Galicier,"Emilienne, Berthe",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3211,11,6,1911,7,7,2007,Communiste,Nord
+3246,Garat,Joseph,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3246,17,11,1911,23,12,1990,Socialiste,Basses-Pyrénées
+3248,Garaudy,Roger,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3248,17,7,1913,13,6,2012,Communiste,Seine
+3264,Garnier,Louis,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3264,11,7,1916,19,5,1964,Communiste,Doubs
+3306,Gautier,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3306,26,4,1908,16,4,1983,Communiste,Seine-et-Marne
+3327,Gazier,Albert,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3327,16,5,1908,2,3,1997,Socialiste,Seine
+3382,Gernez,Raymond,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3382,27,11,1906,13,12,1991,Socialiste,Nord
+3397,Giacobbi,François,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3397,19,7,1919,7,3,1997,Républicain radical et radical-socialiste,Corse
+3432,Girard,Rosan,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3432,16,10,1913,5,6,2001,Communiste,Guadeloupe
+3435,Girardot,Pierre,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3435,20,11,1913,3,1,2001,Communiste,Basses-Alpes
+3487,Gosnat,"Georges, Raoul",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3487,3,12,1914,22,5,1982,Communiste,Charente-Maritime
+3492,Goudoux,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3492,23,7,1910,15,9,1963,Communiste,Corrèze
+3496,Gouin,"Félix, Jean",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3496,4,10,1884,25,10,1977,Socialiste,Bouches-du-Rhône
+3510,Gourdon,Robert,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3510,22,2,1914,8,7,1979,Socialiste,Gard
+3534,Gozard,Gilles,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3534,24,4,1910,13,5,1976,Socialiste,Allier
+3550,Grappe,Elise,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3550,26,12,1911,25,11,1996,Communiste,Isère
+3562,Gravoille,Gilles,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3562,13,11,1914,28,3,1991,Communiste,Loire-Atlantique
+3571,Grenier,Fernand,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3571,9,7,1901,12,7,1992,Communiste,Seine
+3631,Guérin,Rose,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3631,4,2,1915,20,9,1998,Communiste,Seine
+3647,Guibert,Germain,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3647,26,11,1897,27,1,1968,Socialiste,Cantal
+3673,Guille,Georges,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3673,20,7,1909,16,11,1985,Socialiste,Aude
+3695,Guislain,Marcel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3695,14,6,1899,10,6,1986,Socialiste,Nord
+3699,Guitton,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3699,20,9,1906,17,10,1984,Socialiste,Loire-Atlantique
+3708,Guyon,Jean-Raymond,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3708,2,4,1900,26,3,1961,Socialiste,Gironde
+3711,Guyot,Raymond,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3711,17,11,1903,17,4,1986,Communiste,Seine
+3736,Hamani Diori,Diori,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3736,16,6,1916,23,4,1989,Union démocratique et socialiste de la Résistance et du RDA,Niger
+3742,Hamon,Marcel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3742,14,4,1908,26,2,1994,Communiste,Côtes-du-Nord
+5922,Harty de Pierrebourg,Olivier,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5922,10,7,1908,22,7,1973,Républicain radical et radical-socialiste,Creuse
+3793,Henneguelle,Henri,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3793,11,6,1908,27,12,1983,Socialiste,Pas-de-Calais
+3817,Hernu,Charles,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3817,3,7,1923,17,1,1990,Républicain radical et radical-socialiste,Seine
+3819,Herriot,Edouard,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3819,5,7,1872,26,3,1957,Républicain radical et radical-socialiste,Rhône
+3821,Hersant,Robert,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3821,31,1,1920,21,4,1996,Républicain radical et radical-socialiste,Oise
+3871,Houdremont,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3871,4,10,1924,25,1,1973,Communiste,Seine
+3874,Houphouët-Boigny,Félix,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3874,18,10,1905,7,12,1993,Union démocratique et socialiste de la Résistance et du RDA,Côte-d'Ivoire
+3881,Hovnanian,Léon,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3881,20,2,1920,13,2,2010,Républicain radical et radical-socialiste,Seine-et-Oise
+3897,Hugues,Emile,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3897,7,4,1901,10,2,1966,Républicain radical et radical-socialiste,Alpes-Maritimes
+3895,Hugues,"André, Joseph",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3895,9,7,1905,10,10,1987,Républicain radical et radical-socialiste,Seine
+4000,Jaquet,Gérard,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4000,12,1,1916,13,4,2013,Socialiste,Seine
+4067,Jourd'Huy,Bernard,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4067,29,4,1925,16,11,1979,Communiste,Seine
+4087,Juge,"Pierre, Albert",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4087,16,12,1917,28,5,2000,Communiste,Tarn-et-Garonne
+4094,Julian,Gaston,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4094,11,12,1909,15,12,2000,Communiste,Hautes-Alpes
+4107,Juskiewenski,Georges,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4107,16,3,1907,6,9,1974,Socialiste,Lot
+4108,Juvénal,Max,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4108,22,11,1905,17,4,1985,Socialiste,Bouches-du-Rhône
+4120,Keita,Modibo,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4120,4,6,1915,16,5,1977,Union démocratique et socialiste de la Résistance et du RDA,Soudan
+4151,Konaté,Mamadou,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4151,1,1,1897,11,5,1956,Union démocratique et socialiste de la Résistance et du RDA,Soudan
+4156,Kriegel-Valrimont,"Maurice, Benjamin",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4156,14,5,1914,2,7,2006,Communiste,Meurthe-et-Moselle
+4229,Lacoste,Robert,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4229,5,7,1898,8,3,1989,Socialiste,Dordogne
+4261,Laforest,Henri,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4261,19,7,1904,13,1,1989,Républicain radical et radical-socialiste,Dordogne
+4297,Lamarque-Cando,Charles,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4297,12,1,1901,30,11,1989,Socialiste,Landes
+4305,Lambert,Lucien,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4305,8,1,1905,25,9,1971,Communiste,Bouches-du-Rhône
+4319,Lamps,René,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4319,5,11,1915,8,5,2007,Communiste,Somme
+4344,Lapie,Pierre-Olivier,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4344,2,4,1901,10,3,1994,Socialiste,Meurthe-et-Moselle
+4355,Lareppe,Pierre,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4355,10,10,1897,10,12,1972,Communiste,Ardennes
+4373,Larue,Tony,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4373,18,7,1904,5,7,1995,Socialiste,Seine-Maritime
+7538,Le Bail,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7538,26,2,1904,25,10,1965,Socialiste,Haute-Vienne
+7551,Le Caroff,Guillaume,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7551,22,7,1914,30,11,1995,Communiste,Côtes-du-Nord
+7573,Le Floch,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7573,12,7,1917,12,2,2012,Socialiste,Gironde
+9615,Le Strat,Alexis,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/9615,14,7,1898,30,7,1970,Socialiste,Ille-et-Vilaine
+7629,Le Troquer,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7629,27,10,1884,11,11,1963,Socialiste,Seine
+7660,Leclercq,Claude,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7660,16,10,1914,6,7,1978,Républicain radical et radical-socialiste,Seine
+7663,Lecoeur,"Constant, Gaston, Pierre, Joseph",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7663,16,11,1923,23,5,2000,Républicain radical et radical-socialiste,Seine-Maritime
+7681,Leenhardt,"Francis, Emile, Daniel",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7681,24,4,1908,3,11,1983,Socialiste,Bouches-du-Rhône
+7707,Lefranc,"Raymond, Marius",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7707,9,2,1916,6,7,1977,Communiste,Aisne
+9088,Legagneux,Fernand,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/9088,27,1,1900,18,10,1972,Communiste,Seine-Maritime
+7738,Lejeune,"Max, Marius, Achille",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7738,19,2,1909,22,11,1995,Socialiste,Somme
+7757,Lempereur Née Nuez,"Rachel, Odile",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7757,14,2,1896,8,10,1980,Socialiste,Nord
+7764,Lenormand,"André, Louis, Victor",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7764,1,9,1913,12,1,1984,Communiste,Calvados
+7803,Leroy,"Roland, Eugène",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7803,4,5,1926,24,2,2019,Communiste,Seine-Maritime
+7812,Lespiau,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7812,24,1,1922,13,11,1997,Communiste,Landes
+7820,Letoquart,Léandre,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7820,4,6,1919,20,3,2004,Communiste,Pas-de-Calais
+7832,Levindrey,Marcel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7832,28,9,1897,2,12,1976,Socialiste,Aisne
+7866,Lisette,"Gabriel, Francisco",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7866,2,4,1919,3,3,2001,Union démocratique et socialiste de la Résistance et du RDA,Tchad
+7873,Llante,"Jean, Joseph, Vincent",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7873,9,12,1914,28,10,1985,Communiste,Haute-Garonne
+4832,Loustau,"Kléber, Georges",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4832,5,2,1915,11,10,2008,Socialiste,Loir-et-Cher
+4863,Mabrut,"Adrien, François",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4863,4,2,1901,25,2,1987,Socialiste,Puy-de-Dôme
+4900,Mailhé,"Pierre, Charles, Alexandre",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4900,22,10,1909,30,11,1987,Républicain radical et radical-socialiste,Hautes-Pyrénées
+4933,Malleret-Joinville,Alfred,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4933,15,12,1911,20,2,1960,Communiste,Seine
+4949,Manceau,Robert,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4949,12,2,1913,28,12,2003,Communiste,Sarthe
+4951,Mancey,"André, Jules, Victor",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4951,17,6,1913,26,12,1984,Communiste,Pas-de-Calais
+4962,Mao,"Hervé, Marie",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4962,14,6,1913,15,4,1987,Socialiste,Finistère
+4993,Margueritte,"Charles, Léon, Alphonse",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4993,6,7,1913,21,7,2002,Socialiste,Calvados
+4995,Mariat,René,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4995,12,2,1911,30,11,1969,Communiste,Cher
+4997,Marie,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4997,3,12,1897,12,6,1974,Républicain radical et radical-socialiste,Seine-Maritime
+9093,Marin,Fernand,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/9093,19,3,1919,7,2,2016,Communiste,Vaucluse
+5012,Maroselli,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5012,22,2,1893,7,4,1970,Républicain radical et radical-socialiste,Haute-Saône
+5022,Marrane,Georges,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5022,20,1,1888,27,7,1976,Communiste,Seine
+5030,Martel,Henri,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5030,3,7,1898,27,11,1982,Communiste,Nord
+5038,Martin,"Gilbert, Henri, Albert",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5038,11,12,1899,29,10,1976,Républicain radical et radical-socialiste,Eure
+5060,Marzin,Madeleine,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5060,21,7,1908,27,5,1998,Communiste,Seine
+5074,Masse,"Jean, Clément",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5074,3,1,1911,10,7,1987,Socialiste,Bouches-du-Rhône
+5083,Masson,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5083,8,9,1907,10,7,1964,Républicain radical et radical-socialiste,Haute-Marne
+5106,Maton,Albert,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5106,3,1,1916,23,9,1997,Communiste,Nord
+5136,Mayer,Daniel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5136,29,4,1909,26,12,1996,Socialiste,Seine
+5147,Mazier,Antoine,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5147,11,10,1908,6,12,1964,Socialiste,Côtes-du-Nord
+5152,Mazuez,"Fernand, Pierre",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5152,16,1,1904,16,2,1968,Socialiste,Saône-et-Loire
+9095,Mbida,André-Marie,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/9095,1,1,1917,2,5,1980,Socialiste,Cameroun
+5176,Mendès France,"Pierre, Isaac, Isidore",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5176,11,1,1907,18,10,1982,Républicain radical et radical-socialiste,Eure
+5192,Mercier,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5192,7,7,1901,22,11,1970,Communiste,Oise
+9096,Mérigonde,Marcel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/9096,18,2,1910,18,7,1984,Socialiste,Oise
+5206,Merle,Toussaint,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5206,31,3,1911,24,5,1969,Communiste,Var
+5226,Métayer,Pierre,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5226,26,7,1905,5,6,1979,Socialiste,Seine-et-Oise
+5233,Meunier,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5233,19,5,1906,26,7,1975,Socialiste,Indre-et-Loire
+5264,Michel,Maurice,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5264,26,5,1904,15,2,1984,Communiste,Drôme
+5270,Midol,Lucien,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5270,24,9,1883,26,12,1979,Communiste,Seine-et-Oise
+5295,Minjoz,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5295,12,10,1904,18,11,1987,Socialiste,Doubs
+5312,Mitterrand,François,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5312,26,10,1916,8,1,1996,Union démocratique et socialiste de la Résistance et du RDA,Nièvre
+5316,Moch,Jules,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5316,15,3,1893,31,7,1985,Socialiste,Hérault
+5333,Mollet,"Guy, Alcide",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5333,31,12,1905,3,10,1975,Socialiste,Pas-de-Calais
+5335,Mondon,"Raymond, Antoine, Charles",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5335,9,7,1917,6,7,1972,Communiste,La Réunion
+5349,Monnerville,"Pierre, Alexandre, Just",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5349,24,2,1895,6,9,1970,Socialiste,Guadeloupe
+5365,Montalat,"Jean, François, Etienne",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5365,12,7,1912,22,9,1971,Socialiste,Corrèze
+5375,Montel,"Eugène, Georges, Léopold, Sully",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5375,5,6,1885,21,1,1966,Socialiste,Haute-Garonne
+5397,Mora,Albert,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5397,4,4,1896,16,10,1959,Communiste,Basses-Pyrénées
+5417,Morève,Roger,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5417,7,6,1897,27,9,1983,Républicain radical et radical-socialiste,Indre
+5418,Morice,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5418,11,10,1900,17,1,1990,Républicain radical et radical-socialiste,Loire-Atlantique
+5467,Mouton,Adrien,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5467,12,2,1902,19,6,1988,Communiste,Bouches-du-Rhône
+5472,Mudry,Auguste,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5472,22,6,1913,6,5,1973,Communiste,Savoie
+5490,Musmeaux,Arthur,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5490,24,6,1888,5,7,1981,Communiste,Nord
+5500,Naegelen,Marcel-Edmond,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5500,17,1,1892,15,4,1978,Socialiste,Basses-Alpes
+5514,Naudet,"Pierre, Henri, René",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5514,23,12,1922,17,12,1997,Républicain radical et radical-socialiste,Seine
+5555,Ninine,"Jules, Benjamin, Emmanuel, Thaïs",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5555,8,10,1903,26,4,1969,Socialiste,Cameroun
+5567,Noël,"Marcel, Gaston",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5567,6,2,1901,24,1,1973,Communiste,Aube
+5579,Notebart,"Arthur, Gustave, Louis",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5579,12,7,1914,21,5,2002,Socialiste,Nord
+5648,Pagès,"René, Alfred",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5648,18,5,1911,9,9,2001,Communiste,Hérault
+5664,Palméro,"Jean, Barthélemy, Marius",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5664,17,12,1912,15,1,1999,Socialiste,Ardèche
+5668,Panier,Claude,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5668,13,12,1912,20,2,1990,Républicain radical et radical-socialiste,Seine
+5685,Parmentier,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5685,22,2,1912,28,7,1978,Socialiste,Pas-de-Calais
+5722,Paul,Gabriel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5722,27,1,1918,20,12,2015,Communiste,Finistère
+5730,Paumier,"Bernard, Albert",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5730,2,12,1909,15,5,1995,Communiste,Loir-et-Cher
+5761,Pélissou,"Marcel, Victor",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5761,15,5,1903,6,5,1987,Communiste,Tarn
+5770,Penven,"Alphonse, François",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5770,3,11,1913,25,1,1994,Communiste,Finistère
+5774,Perche,Maurice,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5774,15,10,1924,19,5,2017,Communiste,Eure-et-Loir
+3189,Péri Dite Gabriel-Péri,Mathilde,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/3189,7,6,1902,16,12,1981,Communiste,Seine-et-Oise
+5801,Péron,Yves,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5801,2,7,1914,6,6,1971,Communiste,Dordogne
+5916,Pierrard,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5916,3,10,1916,26,6,1997,Communiste,Nord
+5925,Piette,Jacques,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5925,13,5,1916,2,4,1990,Socialiste,Yonne
+5945,Pineau,Christian,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5945,14,10,1904,5,4,1995,Socialiste,Sarthe
+5958,Pirot,Georges,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5958,17,2,1898,29,3,1982,Communiste,Indre
+5964,Plaisance,Roland,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5964,31,7,1925,1,9,2017,Communiste,Eure
+5980,Pleven,René,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/5980,15,4,1901,13,1,1993,Union démocratique et socialiste de la Résistance et du RDA,Côtes-du-Nord
+6458,Pourtalet,Henri,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6458,23,12,1899,3,7,1974,Communiste,Alpes-Maritimes
+6480,Pranchère,Pierre,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6480,1,7,1927,,,,Communiste,Corrèze
+6948,Prigent Dit Tanguy-Prigent François,Tanguy,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6948,11,10,1909,20,1,1970,Socialiste,Finistère
+6500,Prin,Jeannette,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6500,8,6,1907,6,4,1970,Communiste,Pas-de-Calais
+6512,Pronteau,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6512,31,7,1919,13,6,1984,Communiste,Charente
+6515,Prot,"Louis, Victor",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6515,28,6,1889,19,10,1972,Communiste,Somme
+6522,Provo,Victor,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6522,30,7,1903,4,10,1983,Socialiste,Nord
+6554,Queuille,Henri,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6554,31,3,1884,15,6,1970,Républicain radical et radical-socialiste,Corrèze
+6565,Rabaté,Maria,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6565,3,7,1900,9,2,1985,Communiste,Seine
+6588,Ramadier,Paul,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6588,17,3,1888,14,10,1961,Socialiste,Aveyron
+6595,Ramette,Arthur,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6595,12,10,1897,15,12,1988,Communiste,Nord
+6596,Ramonet,Edouard,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6596,14,9,1909,4,12,1980,Républicain radical et radical-socialiste,Indre
+6598,Ranoux,Roger,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6598,26,10,1921,9,7,2015,Communiste,Dordogne
+6648,Regaudie,René,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6648,14,4,1908,23,1,2000,Socialiste,Haute-Vienne
+6670,Renard,Adrien,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6670,7,7,1905,29,3,1979,Communiste,Aisne
+6714,Reyraud,Renée,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6714,29,10,1904,2,1,1993,Communiste,Gironde
+6756,Rieu,"Jean, Marc",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6756,22,5,1921,30,12,1972,Communiste,Gironde
+6777,Rincent,Germain,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6777,30,10,1899,22,11,1986,Socialiste,Aube
+6023,Roca Née Cau,Gilberte,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6023,18,2,1911,26,7,2004,Communiste,Gard
+6041,Rochet,"Waldeck, Emile",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6041,5,4,1905,15,3,1983,Communiste,Saône-et-Loire
+6062,Rolland,Jacques,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6062,14,10,1914,11,9,1999,Républicain radical et radical-socialiste,Seine
+6078,Roquefort,Félix,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6078,12,12,1913,25,11,1982,Communiste,Aude
+6111,Roucaute,Roger,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6111,20,4,1912,15,10,1991,Communiste,Ardèche
+6110,Roucaute,Gabriel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6110,25,4,1904,21,2,1960,Communiste,Gard
+4858,Ruff dit Lussy,Charles,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/4858,25,9,1883,17,10,1967,Socialiste,Vaucluse
+6190,Ruffe,Hubert,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6190,29,7,1899,28,7,1995,Communiste,Lot-et-Garonne
+6191,Rumeau,Marcelle,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6191,1,6,1912,1,3,1995,Communiste,Haute-Garonne
+6206,Sagnol,Léon,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6206,5,10,1891,7,6,1991,Républicain radical et radical-socialiste,Haute-Loire
+6302,Sauer,Raoul,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6302,19,3,1898,23,7,1972,Communiste,Aisne
+6322,Savard,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6322,27,5,1911,25,2,1997,Communiste,Meuse
+6323,Savary,Alain,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6323,25,4,1918,17,2,1988,Socialiste,Saint-Pierre-et-Miquelon
+6369,Ségelle,Pierre,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6369,11,9,1899,8,10,1960,Socialiste,Loiret
+6862,Sissoko,Fily-Dabo,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6862,1,1,1900,30,6,1964,Socialiste,Soudan
+6882,Soulié,Michel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6882,10,2,1916,15,5,1989,Républicain radical et radical-socialiste,Loire
+6885,Souquès,Pierre,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6885,2,1,1910,10,4,2007,Républicain radical et radical-socialiste,Indre-et-Loire
+6890,Soury,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/6890,14,4,1924,23,5,2012,Communiste,Charente
+7008,Thamier,Henri,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7008,10,2,1916,7,11,2001,Communiste,Lot
+7020,Thibaud,Marcel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7020,22,9,1896,1,7,1985,Communiste,Loire
+7046,Thomas,Eugène,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7046,23,7,1903,29,1,1969,Socialiste,Nord
+7061,Thoral,Ennemond,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7061,23,5,1905,25,3,1966,Socialiste,Loire
+7063,Thorez,Maurice,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7063,28,4,1900,11,7,1964,Communiste,Seine
+7091,Titeux,Camille,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7091,5,3,1910,3,7,1978,Socialiste,Ardennes
+7101,Tony-Révillon,Marie,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7101,24,4,1891,11,1,1957,Républicain radical et radical-socialiste,Ain
+7111,Touré,Sékou,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7111,9,1,1922,26,3,1984,Union démocratique et socialiste de la Résistance et du RDA,Guinée
+7116,Tourné,"André, Sébastien, Joseph",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7116,9,7,1915,18,10,2001,Communiste,Pyrénées-Orientales
+7120,Tourtaud,Auguste,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7120,3,7,1914,17,9,2006,Communiste,Creuse
+7147,Trémouilhe,Raphaël,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7147,27,1,1891,12,12,1978,Républicain radical et radical-socialiste,Lot-et-Garonne
+7153,Tricart,Jean,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7153,30,9,1915,27,11,2000,Communiste,Haute-Vienne
+7169,Tsiranana,Philibert,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7169,1,1,1912,16,4,1978,Socialiste,Madagascar
+7182,Tys,René,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7182,7,12,1920,29,1,1980,Communiste,Marne
+7202,Vaillant-Couturier Née Vogel,Marie-Claude,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7202,3,11,1912,11,12,1996,Communiste,Seine
+7207,Vallin,Camille,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7207,22,11,1918,9,7,2009,Communiste,Rhône
+7209,Vals,Francis,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7209,9,1,1910,27,6,1974,Socialiste,Aude
+7215,Védrines,Henri,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7215,19,11,1911,12,2,1995,Communiste,Allier
+7220,Verdier,"Robert, Jean",http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7220,28,11,1910,27,2,2009,Socialiste,Seine
+7221,Vergès,Paul,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7221,5,3,1925,12,11,2016,Communiste,La Réunion
+7222,Vermeersch-Thorez,Jeannette,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7222,26,11,1910,5,11,2001,Communiste,Seine
+7226,Véry-Hermence,Emmanuel,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7226,31,3,1904,19,6,1966,Socialiste,Martinique
+7237,Villon-Ginsburger,Pierre,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7237,27,7,1901,6,11,1980,Communiste,Allier
+7243,Vuillien,André,http://www2.assemblee-nationale.fr/sycomore/fiche/(num_dept)/7243,9,2,1924,6,5,2016,Communiste,Saône-et-Loire
